@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Angular, TypeScript, HTML, Java, Python and C++**
 
-- 🔭 I’m currently working on [The Frontend of A Recipe Demo App](https://github.com/portiang20/project-cont7-app)
-
 - 📄 Know about my experiences on [https://portiang20.github.io/](https://portiang20.github.io/)
 
 - 📫 Reach me at **portiang20@gmail.com**
