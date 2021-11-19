@@ -1,12 +1,12 @@
 <h1 align="left">Hi there 👋 I'm Portia Ng</h1>
 <!-- <a href=portiang20.github.io><img src=https://img.shields.io/static/v1?label=Resume&message=portiang20@github.io&color=red></img></a> --->
-<a href="https://portiang20.github.io"><img src=https://img.shields.io/static/v1?label=Portfolio&message=portiang20.github.io&color=orange></a>
+<!-- <a href="https://portiang20.github.io"><img src=https://img.shields.io/static/v1?label=Portfolio&message=portiang20.github.io&color=orange></a> --->
 <h4 align="left">A passionate developer currently pursuing the Master of Computing and Innovation at The University of Adelaide.</h3>
 
 
 - 💬 Ask me about **Angular, TypeScript, HTML, Java, Python and C++**
 
-- 📄 Know about my experiences on [https://portiang20.github.io/](https://portiang20.github.io/)
+<!-- - 📄 Know about my experiences on [https://portiang20.github.io/](https://portiang20.github.io/) --->
 
 - 📫 Reach me at **portiang20@gmail.com**
 <br>
