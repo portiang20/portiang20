@@ -1,10 +1,10 @@
 <h1 align="left">Hi there 👋 I'm Portia Ng</h1>
 <a href=https://github.com/portiang20/portiang20/raw/main/Resume%20-%20Portia%20On%20Ki%20Ng.pdf target=_blank><img src=https://img.shields.io/static/v1?label=Download&message=Resume&color=red></img></a>
 <!-- <a href="https://portiang20.github.io"><img src=https://img.shields.io/static/v1?label=Portfolio&message=portiang20.github.io&color=orange></a> --->
-<h4 align="left">A passionate developer currently pursuing the Master of Computing and Innovation at The University of Adelaide.</h3>
+<h4 align="left">Software Engineer at Lumination</h3>
 
 
-- 💬 Ask me about **Angular, TypeScript, HTML, Java, Python and C++**
+- 💬 Ask me about **Angular, JavaScript, TypeScript, HTML, Java, Python and C#**
 
 <!-- - 📄 Know about my experiences on [https://portiang20.github.io/](https://portiang20.github.io/) --->
 
