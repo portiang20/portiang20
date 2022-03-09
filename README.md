@@ -1,14 +1,24 @@
 <h1 align="left">Hi there 👋 I'm Portia Ng</h1>
-<a href=https://github.com/portiang20/portiang20/raw/main/Resume%20-%20Portia%20On%20Ki%20Ng.pdf target=_blank><img src=https://img.shields.io/static/v1?label=Download&message=Resume&color=red></img></a>
+<!-- <a href=https://github.com/portiang20/portiang20/raw/main/Resume%20-%20Portia%20On%20Ki%20Ng.pdf target=_blank><img src=https://img.shields.io/static/v1?label=Download&message=Resume&color=red></img></a> --->
 <!-- <a href="https://portiang20.github.io"><img src=https://img.shields.io/static/v1?label=Portfolio&message=portiang20.github.io&color=orange></a> --->
 <h4 align="left">Software Engineer at Lumination</h3>
 
 
-- 💬 Ask me about **Angular, JavaScript, TypeScript, HTML, Java, Python and C#**
+- 💬 Ask me about **Angular, JavaScript, Django, TypeScript, HTML, Java, Python and C#**
 
 <!-- - 📄 Know about my experiences on [https://portiang20.github.io/](https://portiang20.github.io/) --->
 
 - 📫 Reach me at **portiang20@gmail.com**
+
+<br>
+<h2 align="left">Projects</h2>
+<a href ="https://github.com/portiang20/project-mindspace"> MindSpace
+<img src ="https://user-images.githubusercontent.com/62090279/141150560-49f3dc49-cecf-456c-a448-bd74b3c1b32a.png"></a>
+
+<a href ="https://github.com/portiang20/project-mindspace"> CI/CD Pipelines and Software Deployments at Scale
+<img src ="https://raw.githubusercontent.com/portiang20/project-cont7-app/main/CICD.png"></a>
+
+
 <br>
 <h2 align="left">Skills</h2>
 <p align="left"> 
