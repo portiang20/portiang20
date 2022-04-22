@@ -10,14 +10,6 @@
 
 - 📫 Reach me at **portiang20@gmail.com**
 
-<br>
-<h2 align="left">Projects</h2>
-<a href ="https://github.com/portiang20/project-mindspace"> MindSpace
-<img src ="https://user-images.githubusercontent.com/62090279/141150560-49f3dc49-cecf-456c-a448-bd74b3c1b32a.png"></a>
-
-<a href ="https://github.com/portiang20/project-mindspace"> CI/CD Pipelines and Software Deployments at Scale
-<img src ="https://raw.githubusercontent.com/portiang20/project-cont7-app/main/CICD.png"></a>
-
 
 <br>
 <h2 align="left">Skills</h2>
